@@ -3,6 +3,8 @@ Scum Charakter Edit
 
 Die Python-Datei funktioniert mit bisher allen Versionen von SCUM
 
+Man kann das Niveau der Fertigkeiten und Attribute bis auf das Maximum erhöhen oder den Wert, bis erreichen des max. Wert, selbst festlegen.
+
 **Funktioniert nur im Einzelspieler-Modus**
 
 
